@@ -1,5 +1,5 @@
 - 👋 Hi, I’m samarth
-- 👀 I’m interested in Automation, Development
+- 👀 I’m interested in Development
 - 💞️ I’m looking to collaborate on DPDK
-- 📫 How to reach me ...
+- 📫 reach me Email: samarth.mer@intel.com
 
