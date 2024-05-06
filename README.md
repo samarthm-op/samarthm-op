@@ -1,5 +1,2 @@
-- 👋 Hi, I’m samarth
-- 👀 I’m interested in Development
-- 💞️ I’m looking to collaborate on DPDK, Power management SW
+- 👋 Hi, I’m samarth working in PID
 - 📫 reach me Email: samarth.mer@intel.com
-
