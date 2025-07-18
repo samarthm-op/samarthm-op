@@ -1,2 +1,2 @@
-- 👋 Hi, I’m samarth working in PID
+- 👋 Hi, I’m samarth working in Power Management Domain
 - 📫 reach me Email: samarth.mer@intel.com
